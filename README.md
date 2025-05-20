@@ -45,7 +45,7 @@ Performed basic **data cleaning** and **transformation** steps to support analys
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/15df1d5b-d03e-4619-a215-9e1b69496656" />
 
 - **Electronics led both profit and profit margin in Q1 2022**, generating approx. $200K in profit. **By Q1 2023, the profit had fallen** by nearly 40% to to around $122K despite stable margins, pushing it from first to third rank in profit. This decline is likely **driven by lower sales**, which also dropped from $410K in Q1 2022 to $303K in the same period previous year.
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/8995c9c9-edb1-4f53-be40-cf239cca4174" />
+<img width="306" alt="image" src="https://github.com/user-attachments/assets/8995c9c9-edb1-4f53-be40-cf239cca4174" />
 
 - **Art & Crafts and Toys were the top 2 profit generators in 2023** (~$160K and ~$170K respectively), however their **profit margin is consistently low**, with Toys having the lowest margin overall. This performance suggests that these categories **benefited from high volume sales of lower-priced items**.
   
@@ -66,18 +66,3 @@ Performed basic **data cleaning** and **transformation** steps to support analys
     - As for Electronics, which drop from top to third in profit despite stable margin, investigate what contributes to the declining sales such as price changes, shift in customer preference, or competitor offerings.
 - **Focus on high profit cities:** Maintain or increase inventory and marketing efforts in Ciudad de Mexico, specifically in downtown and commercial stores to maximize returns.
 - **Timing of promotions and seasonality:** Consider planning key marketing campaigns or promotional events around Q2 and Q4 to capitalize on recurring high demand periods.
-
-## 🧠 DAX Formulas 
-```DAX
-Total Sales = SUMX(fact_sales, fact_sales[Units] * RELATED(dim_products[Product_Price]))
-
-Total Sales QoQ Diff = 
-VAR PrevQuarter =
-    CALCULATE ([Total Sales], DATEADD ('dim_calendar'[Date], -1, QUARTER))
-RETURN
-    IF (ISBLANK (PrevQuarter), 
-    BLANK (), 
-    [Total Sales] - PrevQuarter)
-
-Total Sales QoQ % Diff =
-DIVIDE([Total Sales QoQ Diff], CALCULATE([Total Sales], DATEADD('dim_calendar'[Date], -1, QUARTER)))
