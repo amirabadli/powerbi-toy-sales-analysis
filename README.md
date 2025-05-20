@@ -1,3 +1,5 @@
+*To explore the interactive visuals and slicers, [download the full Power BI report (.pbix)](./Mexico_Toy_Sales_Performance.pbix) for complete experience.*
+
 ## 🎯 Project Title
 Analyzing toy sales trends in Mexico to uncover seasonal, regional and product performance patterns.
 
