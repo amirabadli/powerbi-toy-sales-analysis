@@ -37,7 +37,7 @@ Performed basic **data cleaning** and **transformation** steps to support analys
 
 ## 💡 Key Insights
 ### **Overall performance:**
-- Across 2022 and 2023, **sales consistently peaked in Q2** ($2.02M (2022) and $2.16M (2023)) and **Q4** ($2.46M in 2022) suggesting **recurring seasonal demand**, possibly tied to school holidays or festive seasons.
+- Across 2022 and 2023, **sales consistently peaked in Q2** ($2.02M (2022) and $2.46M (2023)) and **Q4** ($2.16M in 2022) suggesting **recurring seasonal demand**, possibly tied to school holidays or festive seasons.
 
 <img width="307" alt="image" src="https://github.com/user-attachments/assets/17a154b1-2e66-4e61-8336-280761f4876a" /> (2022)
 <img width="306" alt="image" src="https://github.com/user-attachments/assets/2cc73132-9508-437e-b483-ec038a18cbb5" /> (2023)
