@@ -1,9 +1,11 @@
 ## 🎯 Project Title
 Analyzing toy sales trends in Mexico to uncover seasonal, regional and product performance patterns.
 
+<img width="632" alt="image" src="https://github.com/user-attachments/assets/c546dcb6-980a-4d1c-ad55-f0e7a52f4088" />
+
 ## 📌 **Project Overview**
 
-This Power BI project was developed to enhance my data visualization skills, deepen my understanding of DAX for creating insightful metrics, and strengthen my analytical thinking** using the **Maven Toys dataset** from **Maven Analytics**.
+This Power BI project was developed to enhance my data visualization skills, deepen my understanding of DAX for creating insightful metrics, and strengthen my analytical thinking using the **Maven Toys dataset** from **Maven Analytics**.
 
 Focusing on **toy sales data in Mexico (2022–2023)**, the dashboard explores performance across **product categories** and **store locations**.  
 The goal is to **identify sales patterns** and **translate them into clear, compelling narratives** to support **business decision-making**.
@@ -17,11 +19,11 @@ The goal is to **identify sales patterns** and **translate them into clear, comp
 ## 🔧 Data Cleaning & Preparation
 Performed basic **data cleaning** and **transformation** steps to support analysis and reporting, including:
 
-- Renamed tables to follow a star schema structure such as **fact** and **dimension tables**.
+- Renamed tables to follow a **star schema structure** such as fact and dimension tables.
 - Adjusted data types for some columns to **ensure accuracy** in calculations and visuals.
-- **Created calculated columns** to establish a custom date hierarchy after marking the ‘Date’ table.
+- **Created calculated columns** to establish a **custom date hierarchy** after marking the ‘Date’ table.
 - **Created DAX measures** for four main KPIs: Total Sales, Total Profit, Total Cost, and Profit Margin.
-- **Established relationships** between fact and dimension tables to **support accurate filtering and aggregation**.
+- **Established relationships** between fact and dimension tables to **support accurate filtering** and **aggregation**.
 
 ## 📊 Dashboard Overview
 - **KPI Cards:** Displays high-level metrics including Total Sales, Total Profit, Total Cost, and Profit Margin.
