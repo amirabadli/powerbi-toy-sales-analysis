@@ -59,13 +59,6 @@ Performed basic **data cleaning** and **transformation** steps to support analys
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/a19204d8-711e-4a8e-88d7-e3b6a3fecff4" />
 
 - At the city level, **Ciudad de Mexico** consistently emerged as **top contributor in sales** across all years and quarters, reaffirming its role as the company’s key market.
-## Recommendations:
-
-- **Product level strategy:**
-    - Since Arts & Crafts and Toys were performing well in sales volume but not in profit margin, consider bundle promotions to help increase customer retention and repeat purchases.
-    - As for Electronics, which drop from top to third in profit despite stable margin, investigate what contributes to the declining sales such as price changes, shift in customer preference, or competitor offerings.
-- **Focus on high profit cities:** Maintain or increase inventory and marketing efforts in Ciudad de Mexico, specifically in downtown and commercial stores to maximize returns.
-- **Timing of promotions and seasonality:** Consider planning key marketing campaigns or promotional events around Q2 and Q4 to capitalize on recurring high demand periods.
 
 ## ✅ Recommendations
 - **Product level strategy:**
