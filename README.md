@@ -50,9 +50,10 @@ Performed basic **data cleaning** and **transformation** steps to support analys
 - **Art & Crafts and Toys were the top 2 profit generators in 2023** (~$160K and ~$170K respectively), however their **profit margin is consistently low**, with Toys having the lowest margin overall. This performance suggests that these categories **benefited from high volume sales of lower-priced items**.
   
 ### **Store-level insights**:
-<img width="308" alt="image" src="https://github.com/user-attachments/assets/c3d731b9-3d16-4819-b399-8eb8f23a8f74" />
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/c3d731b9-3d16-4819-b399-8eb8f23a8f74" /> (2022)
+<img width="306" alt="image" src="https://github.com/user-attachments/assets/d1ff44db-4d68-4c5b-9aaf-8d940d596184" /> (2023)
 
-- **Sales fluctuated across all store locations**, with peaks observed in **Q2 and Q4 of 2022**, and **continued to grow in Q1** and **Q2** of 2023. **Downtown consistently led performance**, generating $4.2M in 2022 and $4.0M in 2023.
+- **Sales fluctuated across all store locations**, with peaks observed in **Q2** and **Q4 of 2022**, and continued to grow in **Q1** and **Q2 of 2023**. **Downtown consistently led performance**, generating $4.2M in 2022 and $4.0M in 2023.
 <img width="309" alt="image" src="https://github.com/user-attachments/assets/87c722ee-f0f1-4bdc-8638-91d56c976987" />
 
 - Notably, **the first half of 2023 saw strong momentum across nearly all locations**, especially **Downtown** and **Commercial**, indicating a **favorable seasonal** or **promotional effect**.
