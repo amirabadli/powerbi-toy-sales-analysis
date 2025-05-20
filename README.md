@@ -22,7 +22,7 @@ The goal is to **identify sales patterns** and **translate them into clear, comp
 ## 🔧 Data Cleaning & Preparation
 Performed basic **data cleaning** and **transformation** steps to support analysis and reporting, including:
 
-- Renamed tables to follow a **star schema structure** such as fact and dimension tables.
+- Renamed tables to follow a **star schema structure** (e.g: `dim_stores`, `dim_products`, `dim_calendar`, and `fact_sales`).
 - Adjusted data types for some columns to **ensure accuracy** in calculations and visuals.
 - **Created calculated columns** to establish a **custom date hierarchy** after marking the ‘Date’ table.
 - **Created DAX measures** for four main KPIs: Total Sales, Total Profit, Total Cost, and Profit Margin.
