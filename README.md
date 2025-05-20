@@ -56,7 +56,7 @@ Performed basic **data cleaning** and **transformation** steps to support analys
 <img width="309" alt="image" src="https://github.com/user-attachments/assets/87c722ee-f0f1-4bdc-8638-91d56c976987" />
 
 - Notably, **the first half of 2023 saw strong momentum across nearly all locations**, especially **Downtown** and **Commercial**, indicating a **favorable seasonal** or **promotional effect**.
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/a19204d8-711e-4a8e-88d7-e3b6a3fecff4" />
+<img width="306" alt="image" src="https://github.com/user-attachments/assets/a19204d8-711e-4a8e-88d7-e3b6a3fecff4" />
 
 - At the city level, **Ciudad de Mexico** consistently emerged as **top contributor in sales** across all years and quarters, reaffirming its role as the company’s key market.
 
