@@ -1,4 +1,4 @@
-*To explore the interactive visuals and slicers, [download the Mexico Toy Sales Performance.pbix](./Mexico%20Toy%20Sales%20Performance.pbix) for complete experience.*
+*To explore the interactive visuals and slicers, download the [Mexico Toy Sales Performance.pbix](./Mexico%20Toy%20Sales%20Performance.pbix) for complete experience.*
 
 ## 🎯 Project Title
 Analyzing toy sales trends in Mexico to uncover seasonal, regional and product performance patterns.
