@@ -37,12 +37,15 @@ Performed basic **data cleaning** and **transformation** steps to support analys
 <img width="593" alt="image" src="https://github.com/user-attachments/assets/103f19bc-3ebe-4d4a-af55-67b0076af057" />
 
 - Across 2022 and 2023, **sales consistently peaked in Q2** ($2.02M (2022) and $2.16M (2023)) and **Q4** ($2.46M in 2022) suggesting **recurring seasonal demand**, possibly tied to school holidays or festive seasons.
-<img width="596" alt="image" src="https://github.com/user-attachments/assets/cd7e4a8c-cfe0-453f-a500-48e7cf759f4f" />
+<img width="591" alt="image" src="https://github.com/user-attachments/assets/3da301d6-b14e-440c-982e-8ac7a52a4707" /> (Q3 2022)
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/cd7e4a8c-cfe0-453f-a500-48e7cf759f4f" /> (Q3 2023)
 
 - In both 2022 and 2023, **Q3 showed a seasonal drop in total sales** (-19% and -13%, respectively). However, **total costs declined more sharply** (-22% and -13.5%), leading to a **profit margin increase** from 28% to 30.8% in 2022, and 25.7% to 26% in 2023. This may reflect **effective cost control**. The sales decline is likely **correlates to summer holidays in Mexico** (based on Mexico’s holiday timeline), when spending pattern shifts possibly toward non-retail activities.
   
 ### **Product-level insights**:
-<img width="308" alt="image" src="https://github.com/user-attachments/assets/15df1d5b-d03e-4619-a215-9e1b69496656" />
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/15df1d5b-d03e-4619-a215-9e1b69496656" /> (Q1 2022)
+<img width="306" alt="image" src="https://github.com/user-attachments/assets/4ad7be51-61be-484b-8bd9-cd7cafd8b6b1" /> (Q1 2023)
+
 
 - **Electronics led both profit and profit margin in Q1 2022**, generating approx. $200K in profit. **By Q1 2023, the profit had fallen** by nearly 40% to to around $122K despite stable margins, pushing it from first to third rank in profit. This decline is likely **driven by lower sales**, which also dropped from $410K in Q1 2022 to $303K in the same period previous year.
 <img width="306" alt="image" src="https://github.com/user-attachments/assets/8995c9c9-edb1-4f53-be40-cf239cca4174" />
