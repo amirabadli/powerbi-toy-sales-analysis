@@ -58,13 +58,10 @@ Performed basic **data cleaning** and **transformation** steps to support analys
   
 ### **Store-level insights**:
 - **Sales fluctuated across all store locations**, with peaks observed in **Q2** and **Q4 of 2022**, and continued to grow in **Q1** and **Q2 of 2023**. **Downtown consistently led performance**, generating $4.2M in 2022 and $4.0M in 2023.
+- Notably, **the first half of 2023 saw strong momentum across nearly all locations**, especially **Downtown** and **Commercial**, indicating a **favorable seasonal** or **promotional effect**.
 
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/c3d731b9-3d16-4819-b399-8eb8f23a8f74" /> (2022)
 <img width="306" alt="image" src="https://github.com/user-attachments/assets/d1ff44db-4d68-4c5b-9aaf-8d940d596184" /> (2023)
-
-- Notably, **the first half of 2023 saw strong momentum across nearly all locations**, especially **Downtown** and **Commercial**, indicating a **favorable seasonal** or **promotional effect**.
-
-<img width="309" alt="image" src="https://github.com/user-attachments/assets/87c722ee-f0f1-4bdc-8638-91d56c976987" />
 
 - At the city level, **Ciudad de Mexico** consistently emerged as **top contributor in sales** across all years and quarters, reaffirming its role as the company’s key market.
 
