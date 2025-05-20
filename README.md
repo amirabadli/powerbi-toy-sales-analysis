@@ -35,20 +35,26 @@ Performed basic **data cleaning** and **transformation** steps to support analys
 ## 💡 Key Insights
 ### **Overall performance:**
 <img width="593" alt="image" src="https://github.com/user-attachments/assets/103f19bc-3ebe-4d4a-af55-67b0076af057" />
+
 - Across 2022 and 2023, **sales consistently peaked in Q2** ($2.02M (2022) and $2.16M (2023)) and **Q4** ($2.46M in 2022) suggesting **recurring seasonal demand**, possibly tied to school holidays or festive seasons.
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/cd7e4a8c-cfe0-453f-a500-48e7cf759f4f" />
+
 - In both 2022 and 2023, **Q3 showed a seasonal drop in total sales** (-19% and -13%, respectively). However, **total costs declined more sharply** (-22% and -13.5%), leading to a **profit margin increase** from 28% to 30.8% in 2022, and 25.7% to 26% in 2023. This may reflect **effective cost control**. The sales decline is likely **correlates to summer holidays in Mexico** (based on Mexico’s holiday timeline), when spending pattern shifts possibly toward non-retail activities.
   
 ### **Product-level insights**:
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/15df1d5b-d03e-4619-a215-9e1b69496656" />
+
 - **Electronics led both profit and profit margin in Q1 2022**, generating approx. $200K in profit. **By Q1 2023, the profit had fallen** by nearly 40% to to around $122K despite stable margins, pushing it from first to third rank in profit. This decline is likely **driven by lower sales**, which also dropped from $410K in Q1 2022 to $303K in the same period previous year.
 <img width="307" alt="image" src="https://github.com/user-attachments/assets/e04790de-e117-417a-955d-52d59cb6e3c2" />
+
 - **Art & Crafts and Toys were the top 2 profit generators in 2023** (~$160K and ~$170K respectively), however their **profit margin is consistently low**, with Toys having the lowest margin overall. This performance suggests that these categories **benefited from high volume sales of lower-priced items**.
   
 ### **Store-level insights**:
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/c3d731b9-3d16-4819-b399-8eb8f23a8f74" />
+
 - **Sales fluctuated across all store locations**, with peaks observed in **Q2 and Q4 of 2022**, and **continued to grow in Q1** and **Q2** of 2023. **Downtown consistently led performance**, generating $4.2M in 2022 and $4.0M in 2023.
 <img width="309" alt="image" src="https://github.com/user-attachments/assets/87c722ee-f0f1-4bdc-8638-91d56c976987" />
+
 - Notably, **the first half of 2023 saw strong momentum across nearly all locations**, especially **Downtown** and **Commercial**, indicating a **favorable seasonal** or **promotional effect**.
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/a19204d8-711e-4a8e-88d7-e3b6a3fecff4" />
 
