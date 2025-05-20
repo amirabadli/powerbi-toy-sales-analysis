@@ -34,9 +34,9 @@ Performed basic **data cleaning** and **transformation** steps to support analys
 
 ## 💡 Key Insights
 ### **Overall performance:**
-<img width="593" alt="image" src="https://github.com/user-attachments/assets/103f19bc-3ebe-4d4a-af55-67b0076af057" /> **2022**
-
+<img width="593" alt="image" src="https://github.com/user-attachments/assets/103f19bc-3ebe-4d4a-af55-67b0076af057" />
 - Across 2022 and 2023, **sales consistently peaked in Q2** ($2.02M (2022) and $2.16M (2023)) and **Q4** ($2.46M in 2022) suggesting **recurring seasonal demand**, possibly tied to school holidays or festive seasons.
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/cd7e4a8c-cfe0-453f-a500-48e7cf759f4f" />
 - In both 2022 and 2023, **Q3 showed a seasonal drop in total sales** (-19% and -13%, respectively). However, **total costs declined more sharply** (-22% and -13.5%), leading to a **profit margin increase** from 28% to 30.8% in 2022, and 25.7% to 26% in 2023. This may reflect **effective cost control**. The sales decline is likely **correlates to summer holidays in Mexico** (based on Mexico’s holiday timeline), when spending pattern shifts possibly toward non-retail activities.
   
 ### **Product-level insights**:
