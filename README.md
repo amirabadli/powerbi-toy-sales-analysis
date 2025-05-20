@@ -1,7 +1,8 @@
 ## 🎯 Project Title
 Analyzing toy sales trends in Mexico to uncover seasonal, regional and product performance patterns.
 
-<img width="632" alt="image" src="https://github.com/user-attachments/assets/c546dcb6-980a-4d1c-ad55-f0e7a52f4088" />
+<img width="633" alt="image" src="https://github.com/user-attachments/assets/7c867978-f8dd-48b7-aebd-429d4ceb2f10" />
+
 
 ## 📌 **Project Overview**
 
@@ -45,22 +46,27 @@ Performed basic **data cleaning** and **transformation** steps to support analys
   
 ### **Product-level insights**:
 - **Electronics led both profit and profit margin in Q1 2022**, generating approx. $200K in profit. **By Q1 2023, the profit had fallen** by nearly 40% to to around $122K despite stable margins, pushing it from first to third rank in profit. This decline is likely **driven by lower sales**, which also dropped from $410K in Q1 2022 to $303K in the same period previous year.
+
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/15df1d5b-d03e-4619-a215-9e1b69496656" /> (Q1 2022)
 <img width="306" alt="image" src="https://github.com/user-attachments/assets/4ad7be51-61be-484b-8bd9-cd7cafd8b6b1" /> (Q1 2023)
 
 - **Art & Crafts and Toys were the top 2 profit generators in 2023** (~$160K and ~$170K respectively), however their **profit margin is consistently low**, with Toys having the lowest margin overall. This performance suggests that these categories **benefited from high volume sales of lower-priced items**.
+
 <img width="306" alt="image" src="https://github.com/user-attachments/assets/8995c9c9-edb1-4f53-be40-cf239cca4174" />
 
   
 ### **Store-level insights**:
 - **Sales fluctuated across all store locations**, with peaks observed in **Q2** and **Q4 of 2022**, and continued to grow in **Q1** and **Q2 of 2023**. **Downtown consistently led performance**, generating $4.2M in 2022 and $4.0M in 2023.
+
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/c3d731b9-3d16-4819-b399-8eb8f23a8f74" /> (2022)
 <img width="306" alt="image" src="https://github.com/user-attachments/assets/d1ff44db-4d68-4c5b-9aaf-8d940d596184" /> (2023)
 
 - Notably, **the first half of 2023 saw strong momentum across nearly all locations**, especially **Downtown** and **Commercial**, indicating a **favorable seasonal** or **promotional effect**.
+
 <img width="309" alt="image" src="https://github.com/user-attachments/assets/87c722ee-f0f1-4bdc-8638-91d56c976987" />
 
 - At the city level, **Ciudad de Mexico** consistently emerged as **top contributor in sales** across all years and quarters, reaffirming its role as the company’s key market.
+
 <img width="306" alt="image" src="https://github.com/user-attachments/assets/a19204d8-711e-4a8e-88d7-e3b6a3fecff4" />
 
 ## ✅ Recommendations
