@@ -1,4 +1,4 @@
-*To explore the interactive visuals and slicers, [download the Mexico Toy Sales Performance (.pbix)](./Mexico%20Toy%20Sales%20Performance.pbix) for full user experience.*
+*To explore the interactive visuals and slicers, [download the Mexico Toy Sales Performance.pbix](./Mexico%20Toy%20Sales%20Performance.pbix) for complete experience.*
 
 ## 🎯 Project Title
 Analyzing toy sales trends in Mexico to uncover seasonal, regional and product performance patterns.
@@ -8,7 +8,7 @@ Analyzing toy sales trends in Mexico to uncover seasonal, regional and product p
 
 ## 📌 **Project Overview**
 
-This Power BI project was developed to enhance my data visualization skills, deepen my understanding of DAX for creating insightful metrics, and strengthen my analytical thinking using the Maven Toys dataset from Maven Analytics.
+This Power BI project was developed to enhance my data visualization skills, deepen my understanding of DAX for creating insightful metrics, and strengthen my analytical thinking using the Maven Toys dataset from **[Maven Analytics](https://mavenanalytics.io/)**.
 
 Focusing on **toy sales data in Mexico (2022–2023)**, the dashboard explores performance across **product categories** and **store locations**.  
 The goal is to **identify sales patterns** and **translate them into clear, compelling narratives** to support **business decision-making**.
