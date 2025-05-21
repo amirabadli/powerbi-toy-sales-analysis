@@ -37,7 +37,7 @@ Performed basic **data cleaning** and **transformation** steps to support analys
 
 ## 💡 Key Insights
 ### **Overall performance:**
-- Across 2022 and 2023, **sales consistently peaked in Q2** ($2.02M (2022) and $2.46M (2023)) and **Q4** ($2.16M in 2022) suggesting **recurring seasonal demand**, possibly tied to school holidays or festive seasons.
+- Across 2022 and 2023, **sales consistently peaked in Q2 and Q4** suggesting **recurring seasonal demand**, possibly tied to school holidays or festive seasons.
 
 <img width="307" alt="image" src="https://github.com/user-attachments/assets/17a154b1-2e66-4e61-8336-280761f4876a" /> (2022)
 <img width="306" alt="image" src="https://github.com/user-attachments/assets/2cc73132-9508-437e-b483-ec038a18cbb5" /> (2023)
@@ -61,7 +61,7 @@ Performed basic **data cleaning** and **transformation** steps to support analys
 
   
 ### **Store-level insights**:
-- **Sales fluctuated across all store locations**, with peaks observed in **Q2** and **Q4 of 2022**. Following the Q4 surge, sales appeared **strong with QoQ growth** through **Q1 and Q2 of 2023** before eventually **dropping in Q3 2023**.  
+- **Sales fluctuated across all store locations**, with **peaks observed in Q2 and Q4 of 2022**. Following the Q4 surge, sales appeared **strong with QoQ growth** through **Q1 and Q2 of 2023** before eventually **dropping in Q3 2023**.  
 - Notably, **the first half of 2023 saw strong momentum across nearly all locations**, especially **Downtown** and **Commercial**, indicating a **favorable seasonal** or positive impact of **promotional efforts**.
   
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/c3d731b9-3d16-4819-b399-8eb8f23a8f74" /> (2022)
