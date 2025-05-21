@@ -37,10 +37,11 @@ Performed basic **data cleaning** and **transformation** steps to support analys
 
 ## 💡 Key Insights
 ### **Overall performance:**
-- Across 2022 and 2023, **sales consistently peaked in Q2 and Q4** suggesting **recurring seasonal demand**, possibly tied to school holidays or festive seasons.
-
-<img width="307" alt="image" src="https://github.com/user-attachments/assets/17a154b1-2e66-4e61-8336-280761f4876a" /> (2022)
-<img width="306" alt="image" src="https://github.com/user-attachments/assets/2cc73132-9508-437e-b483-ec038a18cbb5" /> (2023)
+- Across 2022 and 2023, **sales consistently peaked in Q2** ($2.02M in 2022 and $2.46M in 2023). **Q4 2022** also showed a **strong peak** ($2.16M), indicating that the **recurring seasonal demand** likely tied to school holidays or festive seasons and seems that **similar peak** can be **expected in Q4 2023**.
+***(2022)***
+<img width="307" alt="image" src="https://github.com/user-attachments/assets/17a154b1-2e66-4e61-8336-280761f4876a" />
+***(2023)***
+<img width="306" alt="image" src="https://github.com/user-attachments/assets/2cc73132-9508-437e-b483-ec038a18cbb5" /> 
 
 
 - In both 2022 and 2023, **Q3 consistently saw a seasonal drop in total sales**, declining by 19% and 13% respectively from the previous quarter. However, **total cost decreased even more sharply** in 2022 (-22%) and showed a **proportionate decline in 2023** (-13.5%). This effective cost control led to a slight **improvement in profit margin** in both years. The overall sales decline is likely correlates with summer holidays in Mexico (based on Mexico’s holiday timeline), when spending pattern shifts possibly toward non-retail activities during this period. 
