@@ -50,10 +50,12 @@ Performed basic **data cleaning** and **transformation** steps to support analys
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/cd7e4a8c-cfe0-453f-a500-48e7cf759f4f" /> (Q3 2023)
   
 ### **Product-level insights**:
-- **Electronics led both profit and profit margin in Q1 2022**, generating approx. $200K in profit. **By Q1 2023, the profit had fallen** by nearly 40% to to around $122K despite stable margins, pushing it from **first to third rank in profit**. This decline is likely **driven by lower sales**, which also **dropped** from $410K in Q1 2022 to $303K in **Q1 2023**.
+- **Electronics led both profit and profit margin in Q1 2022**, generating approx. $200K in profit. **By Q1 2023, the profit had fallen** by nearly 40% to to around $122K despite stable margins, pushing it from **first to third rank in profit**. The decline in Electronic category is likely **driven by lower sales**, which **dropped** from $410K in Q1 2022 to $303K in **Q1 2023**.
 
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/15df1d5b-d03e-4619-a215-9e1b69496656" /> (Q1 2022)
 <img width="306" alt="image" src="https://github.com/user-attachments/assets/4ad7be51-61be-484b-8bd9-cd7cafd8b6b1" /> (Q1 2023)
+
+![image](https://github.com/user-attachments/assets/ee87b977-8eb2-4002-9269-4c0cb1fc03fd)
 
 - **Art & Crafts and Toys were the top 2 profit generators in 2023** (~$160K and ~$170K respectively), however their **profit margin is consistently low**, with **Toys** having the **lowest margin overall**. This performance suggests that these categories **benefited from high volume sales of lower-priced items**.
 
