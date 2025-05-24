@@ -55,8 +55,8 @@ Performed basic **data cleaning** and **transformation** steps to support analys
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/15df1d5b-d03e-4619-a215-9e1b69496656" /> (Q1 2022)
 <img width="306" alt="image" src="https://github.com/user-attachments/assets/4ad7be51-61be-484b-8bd9-cd7cafd8b6b1" /> (Q1 2023)
 
-<img width="306" alt="image" src="https://github.com/user-attachments/assets/8ba730d5-7d4d-4407-9576-0498003b9525" /> (Q1 2022)
-<img width="306" alt="image" src="https://github.com/user-attachments/assets/fec9f997-a08f-4bc3-a9f5-99405e5ef273" /> (Q1 2023)
+<img width="306" alt="image" src="https://github.com/user-attachments/assets/8ba730d5-7d4d-4407-9576-0498003b9525" /> (2022)
+<img width="306" alt="image" src="https://github.com/user-attachments/assets/fec9f997-a08f-4bc3-a9f5-99405e5ef273" /> (2023)
 
 
 - **Art & Crafts and Toys were the top 2 profit generators in 2023** (~$160K and ~$170K respectively), however their **profit margin is consistently low**, with **Toys** having the **lowest margin overall**. This performance suggests that these categories **benefited from high volume sales of lower-priced items**.
